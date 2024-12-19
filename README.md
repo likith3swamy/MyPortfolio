@@ -1,12 +1,9 @@
 # MyPortfolio
 my portfolio
-<!DOCTYPE html>
 
 <html lang="en">
 
 <head>
-
-<title>Home - Portfolio</title>
 
 <link rel="stylesheet" href="styles.css">
 
