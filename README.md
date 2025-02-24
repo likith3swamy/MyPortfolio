@@ -4,7 +4,7 @@
 
 <head>
 
-<title>Home - Portfolio</title>
+
 
 <link rel="stylesheet" href="https://github.com/likith3swamy/MyPortfolio/blob/main/Style.css">
 
