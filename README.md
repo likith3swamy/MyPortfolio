@@ -70,7 +70,7 @@ Hello! I am Swamy R, a Computer Science Engineering student at JSS Academyof Tec
 
 <li>Phone: +91 6363246462</li>
 
-<li>Email:<a href="mailto:likithswamy3@gmail.com">likithswamy3@gmail.com</a></li>
+<li>Email: <a href="mailto:likith3swamy.r@gmail.com">likith3swamy.r@gmail.com</a></li>
 
 <li>LinkedIn: <a href="https://www.linkedin.com/in/Swamy R"target="blank">LinkedIn
 
@@ -88,7 +88,7 @@ Profile</a></li>
 
 <footer>
 
-<p>&copy; 2024 Swamy R</p>
+<p>&copy; 2025 Swamy R</p>
 
 </footer>
 
